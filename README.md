@@ -7,7 +7,7 @@ La descripción de los objetivos de cada proyecto y los pasos seguidos se encuen
 
 Críticas y sugerencias de mejora son bien recibidas :)
 
-Los título de cada notebook siguen esta estructura: XY_Zzz_zzz. *XY* indican el tipo de proyecto (ej.: SupClas = Supervisado Clasificatorio); *Zzz_zzz* indica el problema abordado (ej.: 'Tipo de Vinos') 
+Los título de los notebooks siguen esta estructura: XY_Zzz_zzz. *XY* indican el tipo de proyecto (ej.: SupClas = Supervisado Clasificatorio); *Zzz_zzz* indica el problema abordado (ej.: 'Tipo de Vinos') 
 
 **Leyenda**
 * Sup = Supervisado
