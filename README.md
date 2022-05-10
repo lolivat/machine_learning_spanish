@@ -1,7 +1,7 @@
 # machine_learning_spanish
 ## Proyectos de Machine Learning y Deep Learning, con Python, y en castellano.
 
-En este repositorio pueden consultarse los proyectos de machine learning que he realizado, usando Python y en lengua española. 
+En este repositorio pueden consultarse los proyectos de machine learning que he realizado usando Python.
 
 La descripción de los objetivos de cada proyecto y los pasos seguidos se encuentran comentados en cada notebook. 
 
